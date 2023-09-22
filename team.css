@@ -1,0 +1,7 @@
+.teamList {
+  background-image: url("../../assets/images/team.png");
+  background-repeat: no-repeat;
+  background-position: 100%;
+  background-size: cover;
+  padding-bottom: 5%;
+}
